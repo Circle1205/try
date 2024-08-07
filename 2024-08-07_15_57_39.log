@@ -1,0 +1,5 @@
+20240807 15:57:39  DEBUG    10loggingtest:25] debug
+20240807 15:57:39  INFO     10loggingtest:26] info
+20240807 15:57:39  WARNING  10loggingtest:27] warning
+20240807 15:57:39  ERROR    10loggingtest:28] error
+20240807 15:57:39  CRITICAL 10loggingtest:29] critical
